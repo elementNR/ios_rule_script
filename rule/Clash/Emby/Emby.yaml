@@ -56,8 +56,37 @@ payload:
   - DOMAIN-SUFFIX,pornemby.club
   - DOMAIN-SUFFIX,servers.xeton.dev
   - DOMAIN-SUFFIX,dpxcf.niceduck.lol
+  - DOMAIN-SUFFIX,bili.bili.rip
+  - DOMAIN-SUFFIX,cdn.bili.rip
+  - DOMAIN-SUFFIX,cf.bili.rip
+  - DOMAIN-SUFFIX,e.niceduck.me
+  - DOMAIN-SUFFIX,jms1.niceduck.lol
+  - DOMAIN-SUFFIX,jms2.niceduck.lol
+  - DOMAIN-SUFFIX,jms1v6.niceduck.lol
+  - DOMAIN-SUFFIX,loacl.emby.moe
+  - DOMAIN-SUFFIX,cf.niceduck.lol
+  - DOMAIN-SUFFIX,jcf.niceduck.lol
+  - DOMAIN-SUFFIX,vi.niceduck.lol
+  - DOMAIN-SUFFIX,cfloacl.emby.moe
+  - DOMAIN-SUFFIX,cfloacl2.emby.moe
+  - DOMAIN-SUFFIX,loacl.emby.moe
+  - DOMAIN-SUFFIX,loacl2.emby.moe
+  - DOMAIN-SUFFIX,pilicf.niceduck.lol
+  - DOMAIN-SUFFIX,dpxcdn.niceduck.lol
+  - DOMAIN-SUFFIX,dpx1.niceduck.lol
+  - DOMAIN-SUFFIX,dpx1v6.niceduck.lol
+  - DOMAIN-SUFFIX,dpx2.niceduck.lol
+  - DOMAIN-SUFFIX,dpxcf.niceduck.lol
+  - DOMAIN-SUFFIX,hxd.asd174.de
+  - DOMAIN-SUFFIX,emby.asd174.de
+  - DOMAIN-SUFFIX,dpx1v6.niceduck.lol
+  - DOMAIN-SUFFIX,dpx2.niceduck.lol
+  - DOMAIN-SUFFIX,hka-emby3.aliz.work
+  - DOMAIN-SUFFIX,222.186.169.25
   - DOMAIN-SUFFIX,xmsl.org
   - DOMAIN-KEYWORD,emby.wtf
   - DOMAIN-KEYWORD,jmsooo
   - DOMAIN-KEYWORD,odysseyplus
   - PROCESS-NAME,com.mb.android
+  - DOMAIN-SUFFIX,emby.moe
+  - DOMAIN-SUFFIX,niceduck.lol
