@@ -9,7 +9,7 @@
 # TOTAL: 52
 payload:
   - DOMAIN,emby.enjoyit.eu.org
-  - DOMAIN,emby.lcloud.wiki
+  - DOMAIN,hxd.as174.de
   - DOMAIN,notnetflix.cos.cat
   - DOMAIN-SUFFIX,123456.al
   - DOMAIN-SUFFIX,285286.xyz
@@ -57,8 +57,8 @@ payload:
   - DOMAIN-SUFFIX,servers.xeton.dev
   - DOMAIN-SUFFIX,dpxcf.niceduck.lol
   - DOMAIN-SUFFIX,hka-emby3.aliz.work
-  - DOMAIN,emby.asd174.de
-  - DOMAIN-SUFFIX,hxd.asd174.de
+  - DOMAIN,emby.as174.de
+  - DOMAIN-SUFFIX,hxd.as174.de
   - DOMAIN-SUFFIX,cf.niceduck.lol
   - DOMAIN-SUFFIX,jcf.niceduck.lol
   - DOMAIN-SUFFIX,loacl.emby.moe
