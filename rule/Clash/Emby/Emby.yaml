@@ -56,11 +56,11 @@ payload:
   - DOMAIN-SUFFIX,pornemby.club
   - DOMAIN-SUFFIX,servers.xeton.dev
   - DOMAIN-SUFFIX,dpxcf.niceduck.lol
-  - DOMAIN-SUFFIX,bili.bili.rip
-  - DOMAIN-SUFFIX,cdn.bili.rip
-  - DOMAIN-SUFFIX,cf.bili.rip
-  - DOMAIN-SUFFIX,cfloacl.emby.moe
-  - DOMAIN-SUFFIX,cfloacl2.emby.moe
+  - DOMAIN-SUFFIX,hka-emby3.aliz.work
+  - DOMAIN-SUFFIX,emby.asd174.de
+  - DOMAIN-SUFFIX,hxd.asd174.de
+  - DOMAIN-SUFFIX,cf.niceduck.lol
+  - DOMAIN-SUFFIX,jcf.niceduck.lol
   - DOMAIN-SUFFIX,loacl.emby.moe
   - DOMAIN-SUFFIX,loacl2.emby.moe
   - DOMAIN-SUFFIX,xmsl.org
