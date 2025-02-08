@@ -4,11 +4,11 @@
 # UPDATED: 2024-07-03 16:16:36
 # DOMAIN: 71
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 241
+# DOMAIN-SUFFIX: 236
 # IP-CIDR: 50
 # IP-CIDR6: 29
 # PROCESS-NAME: 6
-# TOTAL: 399
+# TOTAL: 394
 payload:
   - DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
   - DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
@@ -319,11 +319,6 @@ payload:
   - DOMAIN-SUFFIX,zmzfile.com
   - DOMAIN-KEYWORD,bilibili
   - DOMAIN-KEYWORD,qiyi
-  - DOMAIN-SUFFIX,cinema.makima.online
-  - DOMAIN-SUFFIX,theater.makima.online
-  - DOMAIN-SUFFIX,anime.makima.online
-  - DOMAIN-SUFFIX,celluloid.makima.online
-  - DOMAIN-SUFFIX,restrict.makima.online
   - IP-CIDR,101.224.0.0/13
   - IP-CIDR,101.71.154.241/32
   - IP-CIDR,103.126.92.132/31
