@@ -64,11 +64,6 @@ payload:
   - DOMAIN,vi.l.qq.com
   - DOMAIN,vip.ffzyread.com
   - DOMAIN,vip.imgffzy.com
-  - DOMAIN,cinema.makima.online 
-  - DOMAIN,theater.makima.online 
-  - DOMAIN,anime.makima.online 
-  - DOMAIN,celluloid.makima.online 
-  - DOMAIN,restrict.makima.online 
   - DOMAIN-SUFFIX,52pt.site
   - DOMAIN-SUFFIX,acg.rip
   - DOMAIN-SUFFIX,acm.org
@@ -198,7 +193,6 @@ payload:
   - DOMAIN-SUFFIX,weather-map.apple.com
   - DOMAIN-SUFFIX,wiley.com
   - DOMAIN-SUFFIX,xunlei.com
-  - DOMAIN-SUFFIX,makima.online
   - DOMAIN-KEYWORD,anti-ad.net
   - DOMAIN-KEYWORD,api-adservices.apple.com
   - DOMAIN-KEYWORD,api.smoot.apple.cn
@@ -234,7 +228,6 @@ payload:
   - DOMAIN-KEYWORD,weather-adge.apple.com
   - DOMAIN-KEYWORD,weather-edge.apple.com
   - DOMAIN-KEYWORD,westlawchina
-  - DOMAIN-KEYWORD,makima.online
   - PROCESS-NAME,BaiduNetdisk_mac
   - PROCESS-NAME,BitComet
   - PROCESS-NAME,ClashX
