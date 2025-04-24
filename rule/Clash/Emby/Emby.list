@@ -86,6 +86,6 @@ DOMAIN-SUFFIX,dpx2.niceduck.lol
 DOMAIN-SUFFIX,dpxcf.niceduck.lol
 DOMAIN-SUFFIX,emby.moe
 DOMAIN-SUFFIX,niceduck.lol
-IP-CIDR6,2606:4700:3036::/48,no-resolve
-IP-CIDR6,2606:4700:3033::/48,no-resolve
+IP-CIDR6,2606:4700:3036::/32,no-resolve
+IP-CIDR6,2606:4700:3033::/32,no-resolve
 
