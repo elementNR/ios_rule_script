@@ -4,7 +4,7 @@
 # UPDATED: 2024-07-03 16:17:40
 # DOMAIN: 3
 # DOMAIN-KEYWORD: 3
-# DOMAIN-SUFFIX: 45
+# DOMAIN-SUFFIX: 61
 # PROCESS-NAME: 1
 # TOTAL: 52
 DOMAIN,emby.enjoyit.eu.org
@@ -63,3 +63,26 @@ DOMAIN-SUFFIX,hka-emby3.aliz.work:8097
 DOMAIN-SUFFIX,emby.as174.de
 DOMAIN-SUFFIX,hxd.as174.de
 DOMAIN-SUFFIX,hongxingyunmovie.vip
+DOMAIN-SUFFIX,bili.bili.rip
+DOMAIN-SUFFIX,cdn.bili.rip
+DOMAIN-SUFFIX,cf.bili.rip
+DOMAIN-SUFFIX,e.niceduck.me
+DOMAIN-SUFFIX,jms1.niceduck.lol
+DOMAIN-SUFFIX,jms2.niceduck.lol
+DOMAIN-SUFFIX,jms1v6.niceduck.lol
+DOMAIN-SUFFIX,loacl.emby.moe
+DOMAIN-SUFFIX,cf.niceduck.lol
+DOMAIN-SUFFIX,jcf.niceduck.lol
+DOMAIN-SUFFIX,vi.niceduck.lol
+DOMAIN-SUFFIX,cfloacl.emby.moe
+DOMAIN-SUFFIX,cfloacl2.emby.moe
+DOMAIN-SUFFIX,loacl.emby.moe
+DOMAIN-SUFFIX,loacl2.emby.moe
+DOMAIN-SUFFIX,pilicf.niceduck.lol
+DOMAIN-SUFFIX,dpxcdn.niceduck.lol
+DOMAIN-SUFFIX,dpx1.niceduck.lol
+DOMAIN-SUFFIX,dpx1v6.niceduck.lol
+DOMAIN-SUFFIX,dpx2.niceduck.lol
+DOMAIN-SUFFIX,dpxcf.niceduck.lol
+DOMAIN-SUFFIX,emby.moe
+DOMAIN-SUFFIX,niceduck.lol
