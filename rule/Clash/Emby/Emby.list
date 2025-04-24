@@ -88,4 +88,6 @@ DOMAIN-SUFFIX,emby.moe
 DOMAIN-SUFFIX,niceduck.lol
 IP-CIDR6,2606:4700:3036::/32,no-resolve
 IP-CIDR6,2606:4700:3033::/32,no-resolve
+IP-CIDR6,2606:4700:3033::6815:4e3,no-resolve
+IP-CIDR6,2606:4700:3036::ac43:8490,no-resolve
 
